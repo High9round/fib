@@ -13,6 +13,7 @@ namespace fib
         {
             //Console.WriteLine("fib:{0}", fib(50));
             Console.WriteLine("fib_for:{0}", fib_for(99999999));
+            Console.ReadLine();
         }
 
         //재귀 함수
