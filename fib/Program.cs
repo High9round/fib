@@ -12,7 +12,7 @@ namespace fib
         static void Main(string[] args)
         {
             //Console.WriteLine("fib:{0}", fib(50));
-            Console.WriteLine("fib_for:{0}", fib_for(99999999));
+            Console.WriteLine("fib_for:{0}", fib_for(999));
             Console.ReadLine();
         }
 
